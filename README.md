@@ -1,4 +1,6 @@
 # node-transip
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/DeviaVir/node-transip.svg)](https://greenkeeper.io/)
 Node.JS Promise-based library to communicate with the TransIP API
 
 This library creates a new instance of "TransIP" for you, exposing a few libraries and methods you can use to communicate.
